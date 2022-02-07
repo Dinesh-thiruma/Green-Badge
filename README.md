@@ -1,5 +1,6 @@
 # Green Badge
  An image editing tool to generate custom Berkeley Green Badges
+ 
  Creators: Dinesh Thirumavalavan, Mark Deng, Satvik Muddana
 
 # Usage
@@ -8,8 +9,10 @@
 
 # Output
 The program creates two outputs: 
-[Your Name]_green_badge.gif: A gif image of the Berkeley Green Badge w/ the current date, time, name, and spinning checkmark gif
-green_badge_static.png: A static png of the Berkeley Green Badge excluding the spinning checkmark gif
+
+`[Your Name]_green_badge.gif`: A gif image of the Berkeley Green Badge w/ the current date, time, name, and spinning checkmark gif.
+
+`green_badge_static.png`: A static png of the Berkeley Green Badge excluding the spinning checkmark gif.
 
 # Other
-The directory includes a fonts folder which stores specific fonts related to the different parts of the image. The directory also includes green_badge.png and green_badge_gif.gif, as well as a folder titled IGNORE which stores other helper files
+The directory includes a fonts folder which stores specific fonts related to the different parts of the image. The directory also includes `green_badge.png` and `green_badge_gif.gif`, as well as a folder titled `IGNORE` which stores other helper files.
