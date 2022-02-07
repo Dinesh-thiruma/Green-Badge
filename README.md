@@ -3,8 +3,15 @@
  
  Creators: Dinesh Thirumavalavan, Mark Deng, Satvik Muddana
 
+# Dependencies
+The program utilizes the Python library PIL. For installation, use the following commands:
+
+`python3 -m pip install --upgrade pip`
+
+`python3 -m pip install --upgrade Pillow`
+
 # Usage
-1. Clone the repository with `git clone https://github.com/Dinesh-thiruma/Green-Badge.git`
+1. Clone the repository with `git repo clone https://github.com/Dinesh-thiruma/Green-Badge.git`
 2. Navigate to green_badge.py and input your name into the terminal input.
 
 # Output
